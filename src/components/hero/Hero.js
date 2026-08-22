@@ -25,7 +25,7 @@ export default function Hero() {
           {/* Eyebrow */}
           <div className="mx-auto mb-6 inline-flex items-center gap-2 rounded-full border border-pink-200 bg-white/80 px-4 py-2 text-xs font-bold text-pink-500 shadow-sm backdrop-blur">
             <span className="h-2 w-2 rounded-full bg-pink-500 shadow-[0_0_0_4px_rgba(244,63,112,0.1)]" />
-            Find your people
+            Find your Finder
           </div>
 
           {/* Heading */}
@@ -43,7 +43,7 @@ export default function Hero() {
           <p className="mx-auto mt-6 max-w-2xl text-sm leading-7 text-slate-500 sm:text-base">
             Discover interesting people around you,
             explore new experiences, and find someone
-            who grant your wishes.
+            who grant your wishes at FriendFinder♡.
           </p>
 
           {/* Search */}

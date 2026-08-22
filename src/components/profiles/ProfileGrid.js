@@ -13,11 +13,11 @@ export default function ProfileGrid() {
             </span>
 
             <h2 className="mt-2 text-3xl font-extrabold tracking-tight text-slate-900">
-              People you might like
+              Amazing Companions
             </h2>
 
             <p className="mt-2 text-sm text-slate-500">
-              Explore some of the people waiting to connect.
+              Explore amazing companions tonight
             </p>
           </div>
 
